@@ -1,0 +1,64 @@
+[21-Oct-2021 16:23:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Nov-2021 11:25:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Nov-2021 14:31:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2021 07:19:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2021 03:25:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Nov-2021 05:12:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Dec-2021 17:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Dec-2021 03:45:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Dec-2021 00:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2021 23:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2021 23:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Dec-2021 08:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Dec-2021 04:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Dec-2021 12:55:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Dec-2021 03:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2022 21:30:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

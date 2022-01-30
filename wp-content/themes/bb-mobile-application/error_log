@@ -1,0 +1,12 @@
+[02-Apr-2021 02:30:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/index.php on line 13
+[14-Nov-2021 02:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/404.php on line 8
+[14-Dec-2021 16:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-content/themes/bb-mobile-application/404.php on line 8

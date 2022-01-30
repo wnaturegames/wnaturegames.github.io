@@ -1,0 +1,80 @@
+[26-Jul-2021 09:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[28-Jul-2021 00:26:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/locale.php on line 11
+[21-Oct-2021 16:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[27-Oct-2021 07:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[28-Oct-2021 01:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/locale.php on line 11
+[10-Nov-2021 11:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[22-Nov-2021 14:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[25-Nov-2021 07:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[26-Nov-2021 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[30-Nov-2021 04:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[02-Dec-2021 17:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[12-Dec-2021 03:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[16-Dec-2021 00:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[22-Dec-2021 22:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[25-Dec-2021 23:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[26-Dec-2021 08:33:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[28-Dec-2021 04:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[28-Dec-2021 12:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[29-Dec-2021 03:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
+[03-Jan-2022 21:26:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u497395070/domains/wnaturegames.com/public_html/wp-includes/template-canvas.php on line 12
