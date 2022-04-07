@@ -384,7 +384,12 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 
 		if (getMobileOperatingSystem() == "iOS")
 		{
-			window.location.href = "cybersoldier://"
+			const inviteCode = window.location.href.split('?')[1];
+
+			if (inviteCode)
+				window.location.href = "cybersoldier://invite?" + inviteCode;
+			else
+				window.location.href = "cybersoldier://";
 		}
 	</script>
 </html>
