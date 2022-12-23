@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.WnatureGames.Achernar",
+      "sha256_cert_fingerprints": [
+        "29:FB:0E:07:4B:1B:F5:F7:B6:8B:E3:2E:4D:4B:B8:8B:45:4E:43:FE:6C:82:CC:2A:97:FE:4B:6A:F5:9E:9B:39"
+      ]
+    }
+  }
+]
